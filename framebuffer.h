@@ -1,1 +1,1 @@
-/home/pavel/mylibraries/Linux/framebuffer.h
+../mylibraries/Linux/framebuffer.h
